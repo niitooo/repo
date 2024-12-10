@@ -1,0 +1,15 @@
+Package: com.booleanmagic.displayrecorder
+Version: 1.3.7
+Section: System
+Maintainer: Ryan Petrich <petrich+displayrecorder@gmail.com>
+Depends: mobilesubstrate, preferenceloader (>= 2.0.5), libactivator (>= 1.7.2), gdata-objectivec-client, firmware (>= 3), openssl, gsc.opengles-2, firmware (<< 6.2)
+Architecture: iphoneos-arm
+Filename: ./debs/DisplayRecorder.deb
+Size: 664524
+MD5sum: 2aabf9da32245a4b9a7b759fdacd0b69
+Description: Record the display in real-time with YouTube uploads, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Name: Display Recorder
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+
+
